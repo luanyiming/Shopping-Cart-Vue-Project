@@ -1,6 +1,6 @@
-# vue_shop
+# Shopping Cart Vue Project
 
-> A Vue.js project
+> 将慕课网老师讲解的demo通过vue-cli重新构建，添加新的功能，练习这个demo对于vue的理解有很大的帮助
 
 ## Build Setup
 
@@ -17,5 +17,3 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
